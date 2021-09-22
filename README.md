@@ -24,8 +24,7 @@ me.say_hi()
 - 🔭 I’m currently working on [an NLP project](https://github.com/ipshitag/aml-1)
 - 🌱 I’m currently learning [NLP](https://github.com/ipshitag/Natural-Language-Processing), [Forecasting](https://github.com/ipshitag/Forecasting), [Bayesian Inference](https://github.com/ipshitag/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) and OSINT.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ipshitaghosh13/)
-- And, my favourite emoji is :shipit:, just in case
-
+- And, my favourite emoji is :shipit:
 
 ## 🔧 Technologies & Tools
 
