@@ -21,7 +21,7 @@ me = DataScientist()
 me.say_hi()
 ```
 
-- 🔭 I’m currently working with [ThirdEye Data](https://github.com/ThirdEyeData) as a junior data scientist.
+- 🔭 I’m currently working with [ThirdEye](https://github.com/ThirdEyeData) as a junior data scientist.
 - 🌱 I’m currently learning [NLP](https://github.com/ipshitag/Natural-Language-Processing), [Forecasting](https://github.com/ipshitag/Forecasting), [Bayesian Inference](https://github.com/ipshitag/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) and Evolutionary Algorithms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ipshitaghosh13/)
 - And, my favourite emoji is :shipit:
