@@ -42,10 +42,3 @@ me.say_hi()
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ipshitag&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8" alt="Ipshita's GitHub Stats" />
 </a> -->
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ipshitag&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://img.shields.io/github/stars/ipshitag?affiliations=OWNER&style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ipshitag.ipshitag)
