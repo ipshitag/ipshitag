@@ -26,5 +26,4 @@ me.say_hi()
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ipshitaghosh13/)
 - And, my favourite emoji is :shipit:
 
-- Catch a glimspse of my work at Ignite:
-- * [Transform your business with Azure AI and Microsoft Fabric](https://ignite.microsoft.com/en-US/sessions/THR506?source=sessions)
+🤗 Catch a glimspse of my work at Ignite: [Transform your business with Azure AI and Microsoft Fabric](https://ignite.microsoft.com/en-US/sessions/THR506?source=sessions)
