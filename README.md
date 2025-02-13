@@ -26,5 +26,3 @@ me.say_hi()
 - 📫 How to reach me: Drop me a text on [LinkedIn](https://www.linkedin.com/in/ipshitaghosh13/) or send me a [mail](mailto:ipshitaghosh0@gmail.com)
 - 🎓 I am **Microsoft Certified: Azure AI Engineer Associate**. Check my credential [here](https://learn.microsoft.com/en-us/users/ipshita/credentials/6a96d41d7f4f5fee).
 - And, my favourite emoji is :shipit:
-
-🤗 Catch a glimspse of my work at Ignite: [Transform your business with Azure AI and Microsoft Fabric](https://ignite.microsoft.com/en-US/sessions/THR506?source=sessions)
