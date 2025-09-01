@@ -11,7 +11,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Ipshita Ghosh"
         self.role = "Lead Data Scientist"
-        self.language_spoken = ["English", "Hindi", "Bengali"]
+        self.language_spoken = ["English", "Hindi", "Bengoli"]
 
     def say_hi(self):
         print("Happy to see you, hope you find some of my work interesting.")
