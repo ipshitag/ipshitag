@@ -14,7 +14,7 @@ class DataScientist:
         self.language_spoken = ["English", "Hindi", "Bengoli"]
 
     def say_hi(self):
-        print("Happy to see you, hope you find some of my work interesting.")
+        print("Happy to see you, hope you find some of my work interesting. Lets collab.")
 
 
 me = DataScientist()
